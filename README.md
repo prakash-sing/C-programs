@@ -1,2 +1,4 @@
 # C-programs
-This is my collection of C-programming codes. Where all queries from beginner to advance will stored.
+This is all the programs of C language which were given by my subject teacher for assignment and home work.
+From - Doon University Dehradun(India)
+Author - Prakash Singh
